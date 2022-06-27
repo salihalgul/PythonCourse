@@ -1,0 +1,7 @@
+Bu bölümde, kursun ilk yarısı boyunca kod yazma ortamımız olacak olan Anaconda programımızı kuracağız.
+
+Anaconda'nın resmi web sitesi:
+
+https://www.anaconda.com
+
+Buradan ücretsiz versiyon olan 'Individual Edition'ı kurabilirsiniz.

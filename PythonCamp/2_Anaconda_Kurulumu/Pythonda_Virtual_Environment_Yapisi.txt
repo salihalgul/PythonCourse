@@ -1,0 +1,12 @@
+Bu bölümde, Python'daki Virtual Environment (sanal ortam) Yapısı 
+ve nasıl bir sanal ortam yaratılacağından bahsedilmektedir.
+
+Siz değerli öğrencilerin, kod yazmaya başlamadan önce, 
+Python'da çok önemli bir yeri olan Virtual Environment yapısını anlamış olmanız gerekmektedir.
+
+Virtual Environment ile ilgili resmi Python Dokümantasyonu:
+https://docs.python.org/3/tutorial/venv.html
+
+Python Paketlerinin merkezi sitesi:
+https://pypi.org/
+

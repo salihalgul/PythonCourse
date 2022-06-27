@@ -1,0 +1,23 @@
+Jupyter Lab / Jupyter Notebook başlarken sizden şifre/token sorarsa yapılacaklar:
+
+İlgili doküman:
+https://jupyter-notebook.readthedocs.io/en/stable/security.html
+
+
+1- Anaconda Prompt'a
+
+jupyter notebook list
+
+şeklinde yazın.
+
+
+2- Gelen Port'lardan, hangisini kullanıyorsanız,
+o Port'a ait Token'ı kopyalayın.
+
+
+3- Şifre ekranına gidip "Password or token" yazan yere yapıştırın.
+
+
+İyi kurulumlar.
+
+

@@ -1,0 +1,19 @@
+Sanal Ortam Listesi:
+conda env list
+
+Yeni bir virtual environment yaratma:
+conda create --name musa_arda_sanal_ortami
+
+Virtual Env'yi aktive etme:
+conda activate musa_arda_sanal_ortami
+
+# JupyterLab yükleme
+conda install jupyterlab
+conda install -c conda-forge jupyterlab
+
+# JupyterLab'ı başlatmak
+jupyter lab
+
+
+JupyterLab Dokümantasyonu:
+https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html
