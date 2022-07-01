@@ -1,0 +1,9 @@
+Bu dosya bir önektir.
+Python'da try-except-else yapısı şudur:
+
+    try:
+        <---- kod ---->
+    except:
+        <---- hata ---->
+    else:
+        <---- hatasız işleme ---->
